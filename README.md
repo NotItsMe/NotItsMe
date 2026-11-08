@@ -1,6 +1,6 @@
 # zaidd 
 
-just your avg high school student, currently working a detector to predict early chronic kidney disease, some math research, bit of neuroscience, and my own little game
+just your avg high school student, currently working on a detector to predict early chronic kidney disease, some math research, bit of neuroscience, and my own little game
 
 - **[neural-codes-96](https://github.com/NotItsMe/neural-codes-96):** settled 81 of the 96 open neural codes from Remark 2.33 of arXiv:2510.20323. Exact certificates, a checker, and a [3D viewer](https://notitsme.github.io/neural-codes-96/).
 - **[neural-codes](https://github.com/NotItsMe/neural-codes):** the toolkit and raw results behind it.
